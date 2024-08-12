@@ -1,3 +1,3 @@
-def echo() {
+def call() {
     sh 'echo Jai shree ram'
 }
